@@ -1,0 +1,9 @@
+LIBRARY MT4C2SignalEntry.dll
+EXPORTS
+Collective2CheckBuyingPower
+Collective2CheckLimits
+Collective2OrderClose
+Collective2OrderDelete
+Collective2OrderModify
+Collective2OrderSend
+

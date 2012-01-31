@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="AbstractCodeInfo.cpp" />
+    <ClCompile Include="CURLRetriever.cpp" />
+    <ClCompile Include="HTTPRspCodeClassString.cpp" />
+    <ClCompile Include="HTTPRspCodeDescription.cpp" />
+    <ClCompile Include="HTTPRspCodeString.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="xmlParser.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AbstractCodeInfo.h" />
+    <ClInclude Include="convert.h" />
+    <ClInclude Include="CURLRetriever.h" />
+    <ClInclude Include="HTTPRspCodeClassString.h" />
+    <ClInclude Include="HTTPRspCodeDescription.h" />
+    <ClInclude Include="HTTPRspCodeString.h" />
+    <ClInclude Include="stringtok.h" />
+    <ClInclude Include="xmlParser.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="MT4C2SignalEntry.def" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,888 @@
+# depslib dependency file v1.0
+1167279098 source:c:\projects\mt4c2signalentry\easycurl.h
+	<string>
+	<iostream>
+	"curl/curl.h"
+
+1212545752 .h"
+
+1245893005 source:c:\projects\mt4c2signalentry\easycurl.cpp
+	"easyCurl.h"
+	<iostream>
+	"curl/curl.h"
+
+1243995954 c:\projects\mt4c2signalentry\easycurl.h
+	<string>
+
+1173151564 
+
+1248832301 source:c:\projects\mt4c2signalentry\main.cpp
+	"main.h"
+	<list>
+	"stringtok.h"
+
+1243995954 c:\projects\mt4c2signalentry\main.h
+	<string>
+	<sstream>
+	<time.h>
+	<iostream>
+	<fstream>
+	"convert.h"
+	"easyCurl.h"
+	"xmlParser.h"
+	<windows.h>
+
+1211078406 >
+
+1168203440 c:\projects\includes\xpath_static.h
+	"xpath_processor.h"
+
+1168203440 cessor.h"
+
+1168203440 c:\projects\includes\xpath_processor.h
+	"action_store.h"
+	"xpath_expression.h"
+	"xpath_stream.h"
+	"xpath_stack.h"
+
+1168203440 ck.h"
+
+1168203438 c:\projects\includes\action_store.h
+	"tinyxml.h"
+
+1168203438 "
+
+1168203440 c:\projects\includes\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	"tinystr.h"
+
+1168203440 c:\projects\includes\tinystr.h
+	<assert.h>
+	<string.h>
+
+1168203440 c:\projects\includes\xpath_expression.h
+	"tinyxpath_conf.h"
+	"tinyxml.h"
+	"node_set.h"
+
+1168203438 h"
+
+1168203440 c:\projects\includes\tinyxpath_conf.h
+
+1168203438 c:\projects\includes\node_set.h
+	"tinyxml.h"
+
+1168203440 c:\projects\includes\xpath_stream.h
+	"lex_util.h"
+	"byte_stream.h"
+	"xpath_syntax.h"
+	"tinyxml.h"
+	"tinystr.h"
+
+1168203438 c:\projects\includes\lex_util.h
+	"tinyxpath_conf.h"
+	"tinyxml.h"
+
+1168203438 c:\projects\includes\byte_stream.h
+	<string.h>
+	"lex_util.h"
+
+1168203440 c:\projects\includes\xpath_syntax.h
+	<assert.h>
+	<stdio.h>
+	"tokenlist.h"
+
+1168203440 c:\projects\includes\tokenlist.h
+	"lex_util.h"
+	"lex_token.h"
+
+1168203438 c:\projects\includes\lex_token.h
+	<stdio.h>
+	<string.h>
+	"lex_util.h"
+
+1168203440 c:\projects\includes\xpath_stack.h
+	"tinyxpath_conf.h"
+	"xpath_expression.h"
+	"xpath_stream.h"
+
+1168203440 eam.h"
+
+1168203432 c:\projects\includes\curl\curl.h
+	"curlver.h"
+	<stdio.h>
+	<limits.h>
+	<types.h>
+	<time.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<sys/types.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+
+1168203432 c:\projects\includes\curl\curlver.h
+
+1168203432 c:\projects\includes\curl\easy.h
+
+1168203432 c:\projects\includes\curl\multi.h
+	"curl.h"
+
+1243995954 c:\projects\mt4c2signalentry\convert.h
+	<iostream>
+	<sstream>
+	<string>
+	<stdexcept>
+
+1133829314 c:\projects\includes\gc_cpp.h
+	"gc.h"
+
+1152313816 c:\projects\includes\gc.h
+	"gc_config_macros.h"
+	<features.h>
+	"gc_pthread_redirects.h"
+	<windows.h>
+	"gc_amiga_redirects.h"
+	"gc_local_alloc.h"
+
+1152313816 alloc.h"
+
+1142028944 c:\projects\includes\gc_config_macros.h
+	<stddef.h>
+	<stdlib.h>
+
+1140149250 c:\projects\includes\gc_pthread_redirects.h
+	<thread.h>
+	<pthread.h>
+	<signal.h>
+	<pthread.h>
+	<signal.h>
+
+979768520 c:\projects\includes\gc_amiga_redirects.h
+
+1079473220 c:\projects\includes\gc_local_alloc.h
+	"gc.h"
+	"gc_gcj.h"
+
+1079477964 c:\projects\includes\gc_gcj.h
+	"gc.h"
+
+964453526 c:\projects\includes\gc_alloc.h
+	"gc.h"
+	<stddef.h>
+	<string.h>
+	"gc.h"
+
+1089229980 c:\projects\includes\gc_allocator.h
+	"gc.h"
+
+1173151564 c:\projects\mt4c2signalentry\memory.h
+	<gc_allocator.h>
+	<gc_cpp.h>
+
+1243995954 c:\projects\mt4c2signalentry\xmlparser.h
+	<stdlib.h>
+	<tchar.h>
+	<wchar.h>
+
+1243995954 source:c:\projects\mt4c2signalentry\xmlparser.cpp
+	"xmlParser.h"
+	<windows.h>
+	<memory.h>
+	<assert.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<widec.h>
+
+1183356080 c:\projects\third-party\curl-7.16.4\include\curl\curl.h
+	"curlver.h"
+	<stdio.h>
+	<limits.h>
+	<types.h>
+	<time.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<sys/types.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+
+1184127376 c:\projects\third-party\curl-7.16.4\include\curl\curlver.h
+
+1100037778 c:\projects\third-party\curl-7.16.4\include\curl\easy.h
+
+1180584284 c:\projects\third-party\curl-7.16.4\include\curl\multi.h
+	"curl.h"
+
+1212545102 source:c:\projects\mt4c2\main.cpp
+	"main.h"
+	<list>
+	"stringtok.h"
+
+1211164918 c:\projects\mt4c2\main.h
+	<string>
+	<sstream>
+	<time.h>
+	<iostream>
+	<fstream>
+	"convert.h"
+	"easyCurl.h"
+	"xmlParser.h"
+	<windows.h>
+
+1211078406 c:\projects\mt4c2\convert.h
+	<iostream>
+	<sstream>
+	<string>
+	<stdexcept>
+
+1211078406 c:\projects\mt4c2\easycurl.h
+	<string>
+
+1211078406 c:\projects\mt4c2\xmlparser.h
+	<stdlib.h>
+	<tchar.h>
+	<wchar.h>
+
+1211078406 c:\projects\mt4c2\stringtok.h
+	<string>
+	<cstring>
+
+1211078406 source:c:\projects\mt4c2\xmlparser.cpp
+	"xmlParser.h"
+	<Windows.h>
+	<memory.h>
+	<assert.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<widec.h>
+
+1212545752 source:c:\projects\mt4c2\easycurl.cpp
+	"easyCurl.h"
+	<iostream>
+	"curl/curl.h"
+
+1206892852 c:\projects\curl-7.18.1\curl-7.18.1\include\curl\curl.h
+	"curlver.h"
+	<stdio.h>
+	<limits.h>
+	<types.h>
+	<time.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<sys/types.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"typecheck-gcc.h"
+
+1206892852 -gcc.h"
+
+1206893414 c:\projects\curl-7.18.1\curl-7.18.1\include\curl\curlver.h
+
+1100034178 c:\projects\curl-7.18.1\curl-7.18.1\include\curl\easy.h
+
+1180580684 c:\projects\curl-7.18.1\curl-7.18.1\include\curl\multi.h
+	"curl.h"
+
+1206033000 c:\projects\curl-7.18.1\curl-7.18.1\include\curl\typecheck-gcc.h
+
+1225158055 source:/home/dwmcqueen/Projects/MT4C2SVN/easyCurl.cpp
+	"easyCurl.h"
+	<iostream>
+	"curl/curl.h"
+
+1225158055 /home/dwmcqueen/Projects/MT4C2SVN/easyCurl.h
+	<string>
+
+1219172565 /home/dwmcqueen/Projects/curl-7.19.0/include/curl/curl.h
+	"curlver.h"
+	"curl/curlbuild.h"
+	"curlrules.h"
+	<stdio.h>
+	<limits.h>
+	<types.h>
+	<time.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<sys/types.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"typecheck-gcc.h"
+
+1220279969 /home/dwmcqueen/Projects/curl-7.19.0/include/curl/curlver.h
+
+1220279969 /home/dwmcqueen/Projects/curl-7.19.0/include/curl/curlbuild.h
+
+1219658558 /home/dwmcqueen/Projects/curl-7.19.0/include/curl/curlrules.h
+
+1210628608 /home/dwmcqueen/Projects/curl-7.19.0/include/curl/easy.h
+
+1211286136 /home/dwmcqueen/Projects/curl-7.19.0/include/curl/multi.h
+	"curl.h"
+
+1213043530 /home/dwmcqueen/Projects/curl-7.19.0/include/curl/typecheck-gcc.h
+
+1225158771 source:/home/dwmcqueen/Projects/MT4C2SVN/main.cpp
+	"main.h"
+	<list>
+	"stringtok.h"
+
+1225158055 /home/dwmcqueen/Projects/MT4C2SVN/main.h
+	<string>
+	<sstream>
+	<time.h>
+	<iostream>
+	<fstream>
+	"convert.h"
+	"easyCurl.h"
+	"xmlParser.h"
+	<windows.h>
+
+1225158055 /home/dwmcqueen/Projects/MT4C2SVN/convert.h
+	<iostream>
+	<sstream>
+	<string>
+	<stdexcept>
+
+1225158055 /home/dwmcqueen/Projects/MT4C2SVN/xmlParser.h
+	<stdlib.h>
+	<tchar.h>
+	<wchar.h>
+
+1225158055 /home/dwmcqueen/Projects/MT4C2SVN/stringtok.h
+	<string>
+	<cstring>
+
+1225158790 source:/home/dwmcqueen/Projects/MT4C2SVN/xmlParser.cpp
+	"xmlParser.h"
+	<windows.h>
+	<memory.h>
+	<assert.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<widec.h>
+
+1243995954 source:c:\documents and settings\administrator\desktop\mt4c2signalentry\main.cpp
+	"main.h"
+	<list>
+	"stringtok.h"
+
+1243995954 c:\documents and settings\administrator\desktop\mt4c2signalentry\main.h
+	<string>
+	<sstream>
+	<time.h>
+	<iostream>
+	<fstream>
+	"convert.h"
+	"easyCurl.h"
+	"xmlParser.h"
+	<windows.h>
+
+1243995954 c:\documents and settings\administrator\desktop\mt4c2signalentry\convert.h
+	<iostream>
+	<sstream>
+	<string>
+	<stdexcept>
+
+1243995954 c:\documents and settings\administrator\desktop\mt4c2signalentry\easycurl.h
+	<string>
+
+1243995954 c:\documents and settings\administrator\desktop\mt4c2signalentry\xmlparser.h
+	<stdlib.h>
+	<tchar.h>
+	<wchar.h>
+
+1243995954 c:\documents and settings\administrator\desktop\mt4c2signalentry\stringtok.h
+	<string>
+	<cstring>
+
+1243995954 source:c:\documents and settings\administrator\desktop\mt4c2signalentry\xmlparser.cpp
+	"xmlParser.h"
+	<windows.h>
+	<memory.h>
+	<assert.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<widec.h>
+
+1243995954 source:c:\documents and settings\administrator\desktop\mt4c2signalentry\easycurl.cpp
+	"easyCurl.h"
+	<iostream>
+	"curl/curl.h"
+
+1240942750 c:\documents and settings\administrator\desktop\curl-7.19.5\curl-7.19.5\include\curl\curl.h
+	"curlver.h"
+	"curl/curlbuild.h"
+	"curlrules.h"
+	<stdio.h>
+	<limits.h>
+	<types.h>
+	<time.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<sys/types.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"typecheck-gcc.h"
+
+1242655690 c:\documents and settings\administrator\desktop\curl-7.19.5\curl-7.19.5\include\curl\curlver.h
+
+1242655690 c:\documents and settings\administrator\desktop\curl-7.19.5\curl-7.19.5\include\curl\curlbuild.h
+	<sys/types.h>
+	<sys/socket.h>
+
+1241106364 c:\documents and settings\administrator\desktop\curl-7.19.5\curl-7.19.5\include\curl\curlrules.h
+
+1210653808 c:\documents and settings\administrator\desktop\curl-7.19.5\curl-7.19.5\include\curl\easy.h
+
+1211311336 c:\documents and settings\administrator\desktop\curl-7.19.5\curl-7.19.5\include\curl\multi.h
+	"curl.h"
+
+1232951192 c:\documents and settings\administrator\desktop\curl-7.19.5\curl-7.19.5\include\curl\typecheck-gcc.h
+
+1244078661 source:c:\users\duncan\desktop\mt4c2signalentry\main.cpp
+	"main.h"
+	<list>
+	"stringtok.h"
+
+1243995954 c:\users\duncan\desktop\mt4c2signalentry\main.h
+	<string>
+	<sstream>
+	<time.h>
+	<iostream>
+	<fstream>
+	"convert.h"
+	"easyCurl.h"
+	"xmlParser.h"
+	<windows.h>
+
+1243995954 c:\users\duncan\desktop\mt4c2signalentry\convert.h
+	<iostream>
+	<sstream>
+	<string>
+	<stdexcept>
+
+1243995954 c:\users\duncan\desktop\mt4c2signalentry\easycurl.h
+	<string>
+
+1243995954 c:\users\duncan\desktop\mt4c2signalentry\xmlparser.h
+	<stdlib.h>
+	<tchar.h>
+	<wchar.h>
+
+1243995954 c:\users\duncan\desktop\mt4c2signalentry\stringtok.h
+	<string>
+	<cstring>
+
+1243995954 source:c:\users\duncan\desktop\mt4c2signalentry\xmlparser.cpp
+	"xmlParser.h"
+	<windows.h>
+	<memory.h>
+	<assert.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<widec.h>
+
+1243995954 source:c:\users\duncan\desktop\mt4c2signalentry\easycurl.cpp
+	"easyCurl.h"
+	<iostream>
+	"curl/curl.h"
+
+1243995954 c:\projects\mt4c2signalentry\stringtok.h
+	<string>
+	<cstring>
+
+1240942750 c:\projects\curl-7.19.5\curl-7.19.5\include\curl\curl.h
+	"curlver.h"
+	"curl/curlbuild.h"
+	"curlrules.h"
+	<stdio.h>
+	<limits.h>
+	<types.h>
+	<time.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<sys/types.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"typecheck-gcc.h"
+
+1242655690 c:\projects\curl-7.19.5\curl-7.19.5\include\curl\curlver.h
+
+1242655690 c:\projects\curl-7.19.5\curl-7.19.5\include\curl\curlbuild.h
+	<sys/types.h>
+	<sys/socket.h>
+
+1241106364 c:\projects\curl-7.19.5\curl-7.19.5\include\curl\curlrules.h
+
+1210653808 c:\projects\curl-7.19.5\curl-7.19.5\include\curl\easy.h
+
+1211311336 c:\projects\curl-7.19.5\curl-7.19.5\include\curl\multi.h
+	"curl.h"
+
+1232951192 c:\projects\curl-7.19.5\curl-7.19.5\include\curl\typecheck-gcc.h
+
+1252202681 source:c:\projects\mt4c2entry2\easycurl.cpp
+	"easyCurl.h"
+	<iostream>
+	"curl/curl.h"
+
+1252202681 c:\projects\mt4c2entry2\easycurl.h
+	<string>
+
+1252939662 source:c:\projects\mt4c2entry2\xmlparser.cpp
+	"xmlParser.h"
+	<Windows.h>
+	<memory.h>
+	<assert.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<widec.h>
+	<wctype.h>
+	<widec.h>
+
+1252939662 c:\projects\mt4c2entry2\xmlparser.h
+	<stdlib.h>
+	<tchar.h>
+	<wchar.h>
+
+1264734248 source:c:\projects\mt4c2entry2\curlretriever.cpp
+	"CURLRetriever.h"
+	<iostream>
+	<sstream>
+
+1257111860 c:\projects\mt4c2entry2\curlretriever.h
+	<string>
+	<curl/curl.h>
+
+1264485206 source:c:\projects\mt4c2entry2\httprspcodeclassstring.cpp
+	"HTTPRspCodeClassString.h"
+
+1264485246 c:\projects\mt4c2entry2\httprspcodeclassstring.h
+	"AbstractCodeInfo.h"
+	<string>
+	<map>
+
+1264485246 c:\projects\mt4c2entry2\abstractcodeinfo.h
+	<string>
+
+1264485206 source:c:\projects\mt4c2entry2\httprspcodedescription.cpp
+	"HTTPRspCodeDescription.h"
+
+1264485246 c:\projects\mt4c2entry2\httprspcodedescription.h
+	"abstractcodeinfo.h"
+	<string>
+	<map>
+
+1264485206 source:c:\projects\mt4c2entry2\httprspcodestring.cpp
+	"HTTPRspCodeString.h"
+
+1264485246 c:\projects\mt4c2entry2\httprspcodestring.h
+	"AbstractCodeInfo.h"
+	<string>
+	<map>
+
+1267499638 source:c:\projects\mt4c2entry2\main.cpp
+	"stringtok.h"
+	<sstream>
+	<time.h>
+	<iostream>
+	<fstream>
+	"convert.h"
+	"CURLRetriever.h"
+	"HTTPRspCodeString.h"
+	"HTTPRspCodeClassString.h"
+	"HTTPRspCodeDescription.h"
+	<windows.h>
+	"xmlParser.h"
+	<list>
+
+1264649389 c:\projects\mt4c2entry2\stringtok.h
+	<string>
+	<cstring>
+
+1267499638 c:\projects\mt4c2entry2\convert.h
+	<iostream>
+	<sstream>
+	<string>
+	<stdexcept>
+
+1264485206 source:c:\projects\mt4c2entry2\abstractcodeinfo.cpp
+	"AbstractCodeInfo.h"
+
+1264734248 source:c:\projects\mt4c2entry\curlretriever.cpp
+	"CURLRetriever.h"
+	<iostream>
+	<sstream>
+
+1257111860 c:\projects\mt4c2entry\curlretriever.h
+	<string>
+	<curl/curl.h>
+
+1264485206 source:c:\projects\mt4c2entry\httprspcodeclassstring.cpp
+	"HTTPRspCodeClassString.h"
+
+1264485246 c:\projects\mt4c2entry\httprspcodeclassstring.h
+	"AbstractCodeInfo.h"
+	<string>
+	<map>
+
+1264485246 c:\projects\mt4c2entry\abstractcodeinfo.h
+	<string>
+
+1264485206 source:c:\projects\mt4c2entry\httprspcodedescription.cpp
+	"HTTPRspCodeDescription.h"
+
+1264485246 c:\projects\mt4c2entry\httprspcodedescription.h
+	"abstractcodeinfo.h"
+	<string>
+	<map>
+
+1264485206 source:c:\projects\mt4c2entry\httprspcodestring.cpp
+	"HTTPRspCodeString.h"
+
+1264485246 c:\projects\mt4c2entry\httprspcodestring.h
+	"AbstractCodeInfo.h"
+	<string>
+	<map>
+
+1252939662 source:c:\projects\mt4c2entry\xmlparser.cpp
+	"xmlParser.h"
+	<Windows.h>
+	<memory.h>
+	<assert.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<widec.h>
+	<wctype.h>
+	<widec.h>
+
+1252939662 c:\projects\mt4c2entry\xmlparser.h
+	<stdlib.h>
+	<tchar.h>
+	<wchar.h>
+
+1264485206 source:c:\projects\mt4c2entry\abstractcodeinfo.cpp
+	"AbstractCodeInfo.h"
+
+1277363603 c:\projects\mt4c2entry\curl-7.20.1\include\curl\curl.h
+	"curlver.h"
+	"curlbuild.h"
+	"curlrules.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<sys/types.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"typecheck-gcc.h"
+
+1277363603 c:\projects\mt4c2entry\curl-7.20.1\include\curl\curlver.h
+
+1277363603 c:\projects\mt4c2entry\curl-7.20.1\include\curl\curlbuild.h
+	<sys/types.h>
+	<sys/socket.h>
+
+1277363603 c:\projects\mt4c2entry\curl-7.20.1\include\curl\curlrules.h
+
+1277363603 c:\projects\mt4c2entry\curl-7.20.1\include\curl\easy.h
+
+1277363603 c:\projects\mt4c2entry\curl-7.20.1\include\curl\multi.h
+	"curl.h"
+
+1277363603 c:\projects\mt4c2entry\curl-7.20.1\include\curl\typecheck-gcc.h
+
+1280363716 source:c:\projects\mt4c2entry\main.cpp
+	"stringtok.h"
+	<sstream>
+	<time.h>
+	<iostream>
+	<fstream>
+	"convert.h"
+	"CURLRetriever.h"
+	"HTTPRspCodeString.h"
+	"HTTPRspCodeClassString.h"
+	"HTTPRspCodeDescription.h"
+	<windows.h>
+	"xmlParser.h"
+	<list>
+
+1264649389 c:\projects\mt4c2entry\stringtok.h
+	<string>
+	<cstring>
+
+1267499638 c:\projects\mt4c2entry\convert.h
+	<iostream>
+	<sstream>
+	<string>
+	<stdexcept>
+
+1264734248 source:c:\projects\collective2mt4\curlretriever.cpp
+	"CURLRetriever.h"
+	<iostream>
+	<sstream>
+
+1257111860 c:\projects\collective2mt4\curlretriever.h
+	<string>
+	<curl/curl.h>
+
+1280388967 c:\projects\collective2mt4\curl-7.20.1\include\curl\curl.h
+	"curlver.h"
+	"curlbuild.h"
+	"curlrules.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<sys/types.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"typecheck-gcc.h"
+
+1280388967 c:\projects\collective2mt4\curl-7.20.1\include\curl\curlver.h
+
+1280388967 c:\projects\collective2mt4\curl-7.20.1\include\curl\curlbuild.h
+	<sys/types.h>
+	<sys/socket.h>
+
+1280388967 c:\projects\collective2mt4\curl-7.20.1\include\curl\curlrules.h
+
+1280388967 c:\projects\collective2mt4\curl-7.20.1\include\curl\easy.h
+
+1280388967 c:\projects\collective2mt4\curl-7.20.1\include\curl\multi.h
+	"curl.h"
+
+1280388967 c:\projects\collective2mt4\curl-7.20.1\include\curl\typecheck-gcc.h
+
+1264485206 source:c:\projects\collective2mt4\httprspcodeclassstring.cpp
+	"HTTPRspCodeClassString.h"
+
+1264485246 c:\projects\collective2mt4\httprspcodeclassstring.h
+	"AbstractCodeInfo.h"
+	<string>
+	<map>
+
+1264485246 c:\projects\collective2mt4\abstractcodeinfo.h
+	<string>
+
+1264485206 source:c:\projects\collective2mt4\httprspcodedescription.cpp
+	"HTTPRspCodeDescription.h"
+
+1264485246 c:\projects\collective2mt4\httprspcodedescription.h
+	"abstractcodeinfo.h"
+	<string>
+	<map>
+
+1264485206 source:c:\projects\collective2mt4\httprspcodestring.cpp
+	"HTTPRspCodeString.h"
+
+1264485246 c:\projects\collective2mt4\httprspcodestring.h
+	"AbstractCodeInfo.h"
+	<string>
+	<map>
+
+1283929573 source:c:\projects\collective2mt4\main.cpp
+	"stringtok.h"
+	<sstream>
+	<time.h>
+	<iostream>
+	<fstream>
+	"convert.h"
+	"CURLRetriever.h"
+	"HTTPRspCodeString.h"
+	"HTTPRspCodeClassString.h"
+	"HTTPRspCodeDescription.h"
+	<windows.h>
+	"xmlParser.h"
+	<list>
+
+1264649389 c:\projects\collective2mt4\stringtok.h
+	<string>
+	<cstring>
+
+1267499638 c:\projects\collective2mt4\convert.h
+	<iostream>
+	<sstream>
+	<string>
+	<stdexcept>
+
+1252939662 c:\projects\collective2mt4\xmlparser.h
+	<stdlib.h>
+	<tchar.h>
+	<wchar.h>
+
+1252939662 source:c:\projects\collective2mt4\xmlparser.cpp
+	"xmlParser.h"
+	<Windows.h>
+	<memory.h>
+	<assert.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<widec.h>
+	<wctype.h>
+	<widec.h>
+
+1264485206 source:c:\projects\collective2mt4\abstractcodeinfo.cpp
+	"AbstractCodeInfo.h"
+
