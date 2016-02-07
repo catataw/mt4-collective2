@@ -1,0 +1,1 @@
+This allows you to send your trades to Collective2 using a MetaTrader interface.
